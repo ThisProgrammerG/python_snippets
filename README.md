@@ -1,6 +1,7 @@
 # python_snippets
-Bits and pieces of code
+## Bits and pieces of code
 
+### Single line print.
 ```
 name = 'Sir/Madam'
 language = 'Python'
