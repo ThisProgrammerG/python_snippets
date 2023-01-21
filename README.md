@@ -28,3 +28,14 @@ What's a line? I don't know, Sir/Madam. Maybe there's something about Python.
 What's a line? I don't know, Sir/Madam. Maybe there's something about Python.
 What's a line? I don't know, Sir/Madam. Maybe there's something about Python.
 ```
+### Apples are oranges
+```
+apples, oranges = 'apples', 'oranges'
+
+if apples and oranges:
+    print(f'Apples and oranges are {apples and oranges}.')
+```
+Outputs:
+```
+Apples and oranges are oranges.
+```
